@@ -9,7 +9,7 @@
 	<name>dchart Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<spring.version>5.1.8.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 		<mybatis.version>3.5.2</mybatis.version>
 		<servlet.version>4.0.1</servlet.version>
 		<mysqlconn.version>8.0.16</mysqlconn.version>
