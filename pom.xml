@@ -12,7 +12,7 @@
 		<spring.version>5.1.8.RELEASE</spring.version>
 		<mybatis.version>3.5.2</mybatis.version>
 		<servlet.version>4.0.1</servlet.version>
-		<mysqlconn.version>8.0.16</mysqlconn.version>
+		<mysqlconn.version>8.0.28</mysqlconn.version>
 		<dbcp2.version>2.6.0</dbcp2.version>
 	</properties>
 	<dependencies>
